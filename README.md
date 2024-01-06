@@ -1,6 +1,9 @@
 ### Israfil Gasim
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=israfilgasim&theme=rising-sun&border_radius=3&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
+
 I enjoy solving problems, even creating new ones, asking about how and why, simplifying complexities, and thinking outside the geschwindigkeitsbegrenzung
+
 
 
 <!--
