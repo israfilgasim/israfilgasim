@@ -7,6 +7,7 @@ I enjoy solving problems, even creating new ones, asking about "how?" and "why?"
 
 <!--
 
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=israfilgasim&theme=rising-sun&border_radius=3&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 
 As an ENTP/INTP, I thrive on problem-solving and even enjoy the challenge of creating new ones. My interests and learning span across diverse areas, ranging from mathematics and computer science to philosophy and psychology. I am particularly passionate about exploring fundamental questions, such as "how?" and "why?" related to my studies. I am a profound learner because I delve deep into every aspect of the subject to gain a thorough understanding.
