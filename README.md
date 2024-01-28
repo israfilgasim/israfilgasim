@@ -4,6 +4,8 @@
 
 I enjoy solving problems, even creating new ones, asking about "how?" and "why?", simplifying complexities, and thinking outside the geschwindigkeitsbegrenzung.
 
+#### My Projects
+
 
 <!--
 
