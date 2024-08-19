@@ -2,7 +2,7 @@
 
 
 
-I enjoy solving problems, even creating new ones, asking about "how?" and "why?", simplifying complexities, and thinking outside the geschwindigkeitsbegrenzung.
+I am a passionate engineer and dedicated learner who delves deep into every aspect of a subject to gain a thorough understanding of both the "how" and "why."
 
 #### My Projects
 
